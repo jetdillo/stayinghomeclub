@@ -122,6 +122,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Google I/O](https://events.google.com/io/): online-only
 - [Google News Initiative Summit](http://socialbarrel.com/google-cancels-its-two-day-global-news-initiative-summit-over-coronavirus/123795/): cancelled
 - [Google Tensorflow Dev Summit](https://www.tensorflow.org/dev-summit/): online-only
+- [Homebrew Robotics Club Silicon Valley] (https://hbrobotics.org/): March meeting cancelled, Board looking at online/alt venues for April & future meetings
 - [IBM Think 2020](https://www.ibm.com/events/think/): online-only
 - [ICANN 67](https://www.icann.org/news/announcement-2020-02-19-en): online-only
 - [Ingram Micro Cloud Summit 2020](https://www.ingrammicrocloud.com/press-releases/ingram-micro-cloud-postpones-cloud-summit-2020-early-2021/): postponed until early 2021
